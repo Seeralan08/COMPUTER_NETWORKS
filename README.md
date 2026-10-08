@@ -1,6 +1,6 @@
 # Computer Networks
 
-**Name:** Seeralan  
+**Name:** Seeralan M  
 **Registration number:** 241501193
 
 ## Experiments
